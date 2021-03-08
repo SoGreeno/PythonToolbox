@@ -1,4 +1,4 @@
-# chyba nie w pełni funkcjonalne
+# działa, ale nie jestem pewien czy zapisuje tekst..
 import time
 editingnow = input("Wybierz nazwę pliku w folderze:")
 plik = open(editingnow, "w")
