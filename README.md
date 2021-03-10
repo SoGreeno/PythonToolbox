@@ -21,6 +21,5 @@ Planowane narzędzia:
 
 # Kontakt
 
-kukanqtokasztan@gmail.com
-
-
+email: kukanqtokasztan@gmail.com
+discord: SoGreenoGranie#2175
