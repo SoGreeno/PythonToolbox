@@ -1,7 +1,5 @@
 # ![PythonToolBox](https://github.com/SoGreeno/PythonToolbox/blob/main/PythonToolBoxLogo.png "Logo")
 
-Zrobione tylko dla nauki itp.
-
 później zrobię stronę pobrania
 
 # About
@@ -20,5 +18,9 @@ Oto są już zrobione narzędzia:
 Planowane narzędzia:
 
 * EasyguiMaker
+
+# Kontakt
+
+kukanqtokasztan@gmail.com
 
 
