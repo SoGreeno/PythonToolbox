@@ -13,11 +13,27 @@ zrobione w pythonie. np.: notatnik
 Oto są już zrobione narzędzia:
 
 * TextEditor
-* GifMaker
+* GifMaker (moviepy)
 
 Planowane narzędzia:
 
-* EasyguiMaker
+* EasyguiMaker (easygui)
+* VideoPlayer (moviepy)
+* PyPaint (pygame. możliwe)
+
+# Wymagania
+
+> pip install moviepy
+Żeby GifMaker i VideoPlayer działało albo python dostanie zawału
+
+> pip install easygui
+Żeby EasyguiMaker działało albo python dostanie zawału
+
+> pip install pygame
+Żeby PyPaint działał albo python dostanie zawału. ale nie musisz bo PyPaint jest planowany
+
+> https://www.python.org/downloads/
+Żeby sam python działał. jeśli masz zainstalowany python, zignoruj to
 
 # Kontakt
 
